@@ -4,7 +4,7 @@ Checklist for OWASP ASVS 5.0.0 audits
 ## 🎯 Purpose
 This repository contains a checklist based on the **OWASP Application Security Verification Standard (ASVS) version 5.0.0**. The goal of this project is to facilitate security audits and streamline the process of verifying applications against the ASVS standard. The spreadsheet format allows for easy tracking of compliance status, note-taking during assessments, and reporting.
 
-## 📖 Overview of the checklist
+## 📖 Overview of the Checklist
 The `STATISTICS` sheet serves as the main dashboard. It provides a comprehensive summary of the checklist, visualizes assessment results with graphs, and offers essential configuration options.
 
  ![STATISTICS sheet in the checklist.](/assets/images/overview.png)
